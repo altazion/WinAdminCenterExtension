@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <packageTypes>
+      <packageType name="WindowsAdminCenterExtension" />
+    </packageTypes>  
+    <id>altazion.altazion-apps</id>
+    <version>0.1.0</version>
+    <title>Altazion for Windows Admin Center</title>
+    <authors>Altazion</authors>
+    <owners>Altazion</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/altazion/WinAdminCenterExtension</projectUrl>
+    <licenseUrl>http://aide.altazion.com/legal/</licenseUrl>
+    <iconUrl>http://YourLogoLink</iconUrl>
+    <description>Use Windows Admin Center to manager your Altazion Apps</description>
+    <copyright>(c) Altazion. All rights reserved.</copyright> 
+    <tags></tags>
+  </metadata>
+  <files>
+    <file src="bundle\**\*.*" target="ux" />
+    <!--<file src="package\**\*.*" target="gateway" />-->
+  </files>
+</package>
