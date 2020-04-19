@@ -1,0 +1,13 @@
+{
+    "//": "manifest section",
+    "AltazionAltazionapps_Manifest_displayName": "Altazion Apps",
+    "AltazionAltazionapps_Manifest_description": "{!product-description}",
+    "AltazionAltazionapps_Manifest_keywords": "SME",
+
+    "//": "Altazionapps",
+    "AltazionAltazionapps_title": "Altazion Apps",
+
+    "//": "about",
+    "AltazionAltazionapps_about": "{!product-about}",
+    "AltazionAltazionapps_aboutDescription": "{!product-about-description}"
+}
